@@ -1,0 +1,1 @@
+class NoDoctorExistException implements Exception {}
